@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bootsrap-react/static/css/main.3982bb5f.css",
+    "main.js": "/bootsrap-react/static/js/main.b98d10e8.js",
+    "index.html": "/bootsrap-react/index.html",
+    "main.3982bb5f.css.map": "/bootsrap-react/static/css/main.3982bb5f.css.map",
+    "main.b98d10e8.js.map": "/bootsrap-react/static/js/main.b98d10e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.b98d10e8.js"
+  ]
+}
