@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <Header />
-      <div className="">
+      <div className="container mt-4">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
